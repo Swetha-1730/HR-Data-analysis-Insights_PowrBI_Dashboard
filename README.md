@@ -1,4 +1,4 @@
-# **HRData_analysis_And_Insights_PowerBI_Dashboard**
+# **HR_Data Analysis & Insights PowerBI Dashboard**
 
 ## **Project Overview**
 This project aims to create a comprehensive HR dashboard using Power BI to provide real-time insights into key workforce metrics and trends. The dashboard will help stakeholders monitor workforce dynamics, including employee distribution, gender diversity, salary comparisons, and employee growth trends. By visualizing HR data, the dashboard supports informed decision-making and strategic planning for resource allocation, recruitment, and budgeting.
